@@ -2,6 +2,7 @@
 layout: post
 title:  "Why did I start a blog?"
 date:   2020-08-23 09:03:19 +0100
+description: How I got to here
 categories: about
 ---
 # Why did I start a blog?
