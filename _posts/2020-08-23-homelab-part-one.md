@@ -14,7 +14,7 @@ As I said in my first post the start of my homelab really started thanks to a pu
 The first step of my lab was adding two UAP-AC-LR and a Cloud Key from Unifi. This addition is not really 'homelab' per say but it was one of the key factors that got me started. It also gave me a starter into the journey of doing this.
 This simple network looked something like this:
 
-![](../assets/SimpleNet.png)
+![]({{site.url}}/assets/SimpleNet.png)
 
 Whilst just a simple setup, no VLANs or anything else such as that, this was a big step forward. For starters it meant that the WiFi in the house was significantly better, and improving the families user experience is always a good thing. 
 Secondly, it gave me a step to start learning the Unifi eco-system, at the time I didn't realise how much of an impact this would have on me going forward. 
@@ -53,7 +53,7 @@ The addition of these devices was perfect for my continual learning and also it 
 ## Where are we now?
 At this point I have the first real setup that I am calling my homelab. It was certainly not the tidiest and compared to some of those online, it was tiny. That being said, it was perfect for me. From the point in the following image I learnt a lot, to start with my networking experience greatly improved, which it just so happened was a great asset for me at work shortly after with some server room changes and issues. I also had started to dip my toes into the world of virtualisation, using Server 2016 with Hyper-V I had several virtual machines running. Some of these where used to run things for the house, such as Pi-Hole, others had absolutely no use for any other than myself like Active Directory. 
 
-![](../assets/SimpleRack.jpg)
+![]({{site.url}}/assets/SimpleRack.jpg)
 
 ## What next?
 Next the lab grew some more, moved and even more was learnt but I will detail all of that in the next post.
