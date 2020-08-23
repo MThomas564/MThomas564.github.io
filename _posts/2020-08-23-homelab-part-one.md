@@ -14,7 +14,7 @@ As I said in my first post the start of my homelab really started thanks to a pu
 The first step of my lab was adding two UAP-AC-LR and a Cloud Key from Unifi. This addition is not really 'homelab' per say but it was one of the key factors that got me started. It also gave me a starter into the journey of doing this.
 This simple network looked something like this:
 
-![]({{site.url}}/assets/SimpleNet.png)
+![]({{site.url}}/assets/SimpleNet.PNG)
 
 Whilst just a simple setup, no VLANs or anything else such as that, this was a big step forward. For starters it meant that the WiFi in the house was significantly better, and improving the families user experience is always a good thing. 
 Secondly, it gave me a step to start learning the Unifi eco-system, at the time I didn't realise how much of an impact this would have on me going forward. 
