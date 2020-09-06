@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Homelab Part 2"
-date:   2020-08-23 13:25:00 +0100
+date:   2020-09-06 13:25:00 +0100
 description: Starting my homelab
 categories: Homelab starting 
 ---
